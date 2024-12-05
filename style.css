@@ -49,7 +49,7 @@
   padding: 12px 24px;
   font-size: 1.2rem; /* Adjusted for better readability */
   text-align: center;
-  background-color: #ffffff; /* Add background to make it pop */
+  color: red;
   border: 1px solid #ddd; /* Optional: subtle border */
   border-radius: 8px;
   box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1); /* Shadow for effect */
